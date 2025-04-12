@@ -1,2 +1,0 @@
-# Viral.pro
-Viral.pro
