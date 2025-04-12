@@ -1,8 +1,3 @@
-}
- owner": {
-        "username": "viral.pro.is-a.dev"
-    },
-    "record": {
-        "RECORDTYPE": "RECORDCONTENT"
-    }
-}
+your-domain-name.jsone
+your-domain-name.is-a.dev
+viral.pro.is-a.dev
