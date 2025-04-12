@@ -1,0 +1,8 @@
+}
+ owner": {
+        "username": "viral.pro.is-a.dev"
+    },
+    "record": {
+        "RECORDTYPE": "RECORDCONTENT"
+    }
+}
